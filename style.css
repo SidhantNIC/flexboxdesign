@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 100px;
+    background-color: black;
+    color:white;
+    padding: 1px;
+}
+section{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.pro{
+    border: 1px black solid;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+#pro1{
+    background-color: green;
+}
+#pro2{
+    background-color: aqua;
+}
+#pro3{
+    background-color: blanchedalmond;
+}
+#pro4{
+    background-color: blue;
+}
+#pro5{
+    background-color: blueviolet;
+}
+#pro6{
+    background-color: brown;
+}
+#pro7{
+    background-color: orangered;
+}
+#pro8{
+    background-color: goldenrod;
+}
+#pro9{
+    background-color: olivedrab;
+}
+#pro10{
+    background-color: indigo;
+}
